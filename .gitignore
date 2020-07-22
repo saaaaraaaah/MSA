@@ -1,0 +1,3 @@
+# ignore files with key
+appsettings.json
+appsettings.Development.json
